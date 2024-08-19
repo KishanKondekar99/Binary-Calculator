@@ -2,10 +2,10 @@
 
 The Binary Calculator project is a versatile tool designed for performing arithmetic operations on binary numbers. This project aims to simplify the process of binary arithmetic, making it an invaluable resource for students, educators, and professionals working in computer science and digital electronics.
 
-Key Features:
+**Key Features:**
 Arithmetic Operations: Execute fundamental operations including addition, subtraction, multiplication, and division directly on binary numbers. The calculator processes inputs and outputs results in binary format.
 
-Conversion Capabilities: Seamlessly convert between binary and decimal systems. This feature allows users to understand and validate binary calculations by viewing results in a more familiar decimal format.
+**Conversion Capabilities**: Seamlessly convert between binary and decimal systems. This feature allows users to understand and validate binary calculations by viewing results in a more familiar decimal format.
 
 User-Friendly Interface: Designed for ease of use, the calculator features a straightforward interface that facilitates quick and accurate binary arithmetic operations.
 
